@@ -1,4 +1,4 @@
-# data cleaning project - NYC Trees
+# Data cleaning project - NYC Trees
 
 ## Description
 New York residents were asked to report on the state of the nearest tree in their neighborhood. A lot of residents have 
