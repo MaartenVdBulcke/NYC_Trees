@@ -4,6 +4,16 @@
 New York residents were asked to report on the state of the nearest tree in their neighborhood. A lot of residents have 
 responded but the way they reported was not uniform.
 This project cleans the resulting dataset and provides a cleaned dataset. 
+The goal of the cleaning is to prepare the data for machine learning. 
+
+## Cleaning operations
+These cleaning operations were performed: 
++ duplication was reduced
++ missing values from relevant columns were filled in
++ a lot of missing values for dead trees and stumps was not filed in
++ datatypes were changed
++ string-values were consolidated
++ several columns were reduced to one 
 
 ## Usage 
 ### CSV-file 
