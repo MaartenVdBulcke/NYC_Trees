@@ -18,7 +18,6 @@ These cleaning operations were performed:
 ## Usage 
 ### CSV-file 
 The cleaned dataset is to be found in the file trees_cleaned_xl.csv. 
-Look for it in the subfolder NYCTrees_datacleaning_challenge.  
 It contains data on 222.222 New York trees.
 
 ### Python script
