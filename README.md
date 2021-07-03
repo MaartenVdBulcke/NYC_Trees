@@ -20,7 +20,7 @@ These cleaning operations were performed:
 The cleaned dataset is to be found in the file trees_cleaned_xl.csv. 
 It contains data on 222.222 New York trees.
 
-### Python script
+### Python scripts
 The used Python-scripts are also present in the subfolder. 
 
 + trees_cleaning_functions.py: contains the written functions to perform datacleaning and to check the dataset
@@ -28,6 +28,6 @@ The used Python-scripts are also present in the subfolder.
 + main.py: run this file to use the scripts 
 
 ### Dataset
-To be able to use the scripts, please download a tree dataset from https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh/data and read your dataset in the threes_xl_cleaning.py-script. 
+To be able to use the scripts, please download a tree dataset from https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh/data and read your dataset in the trees_xl_cleaning.py-script. 
 
 ![NYC Picture (Image)](https://media.architecturaldigest.com/photos/56a177c6f62777972f2fe407/16:9/w_3104,h_1746,c_limit/million-trees-new-york-01.jpg)
